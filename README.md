@@ -1,3 +1,6 @@
+Nugaev Alexey Домашнее задание к занятию «Git»
+
+
 # git_netologe
 обучение Git
 
